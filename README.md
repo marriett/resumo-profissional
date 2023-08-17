@@ -4,7 +4,7 @@
 
 # 🖥 Projeto
 
-- Esse é um projeto web responsivo utilizado para exibir um resumo de experiências proffisionais em uma timeline.
+- Esse é um projeto web responsivo utilizado para exibir um resumo de experiências profisionais em uma timeline.
 
 ## 🚀 Tecnologias
 
