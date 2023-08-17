@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Demo do projeto" width="100%" />
+  <img src="./assets/preview.png" alt="Demo do projeto" width="100%" />
 </p>
 
 # 🖥 Projeto
